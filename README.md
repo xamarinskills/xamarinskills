@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sumit Singh Sisodia</h1>
-<h3 align="center">I will be sharing with you my adventures in.NET MAUI/Xamarin Forms in this Channel as I learn, discover and hopefully write some interesting applications.</h3>
+<h3 align="center">I will be sharing with you my adventures in .NET MAUI/Xamarin Forms and Vibe Coding Skills in this Channel as I learn, discover and hopefully write some interesting applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xamarinskills&label=Profile%20views&color=0e75b6&style=flat" alt="xamarinskills" /> </p>
 
